@@ -12,3 +12,4 @@ https://user-images.githubusercontent.com/71326668/143665104-f0470739-e48a-4b8a-
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
 - [x] 3. User can tap a button to change the text color of the label.
+![PreWorkVid](https://user-images.githubusercontent.com/71326668/143666147-4ecd7a50-0ec9-4183-87bc-f64f1bae8f3b.gif)
